@@ -51,4 +51,5 @@ Available development softwares:
 ## Demo
 <img src="https://media.giphy.com/media/3X1XyBwbbScipe3bYv/source.gif" width ="40" />
 
+![alt-text](demo/product_scan_demo.gif)
 
