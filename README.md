@@ -49,4 +49,4 @@ Available development softwares:
 
 
 ## Demo
-<img src="https://media.giphy.com/media/s5bmUKzRDyVCZdzrL9/giphy-downsized-large.gif"/>
+<img src="https://media.giphy.com/media/s5bmUKzRDyVCZdzrL9/giphy-downsized-large.gif">
