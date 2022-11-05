@@ -34,16 +34,15 @@ Available development softwares:
   Advantages of target library - easy management/modification of the image targets which benefits constant modification in products.
 
 
-###                                       FINAL SOLUTION = VUFORIA SDK + UNITY ENGINE + ANDROID STUDIO
-
-
 ## Demo
 
 ![alt-text](demo/productscandemo_3.gif)
 
+
 ## Market Study
 
-  
+![alt-text](demo/productscansurvey.png)  
+
 
 ## Results and Conclusion
 
