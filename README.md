@@ -49,7 +49,7 @@ Available development softwares:
 
 
 ## Demo
-<img src="https://media.giphy.com/media/3X1XyBwbbScipe3bYv/source.gif" width ="40" />
+<img src="https://media.giphy.com/media/Et7S1hunlr8YkDC2wh/source.gif" />
 
 ![alt-text](demo/product_scan_demo.gif)
 
