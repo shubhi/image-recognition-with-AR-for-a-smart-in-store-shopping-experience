@@ -49,5 +49,6 @@ Available development softwares:
 
 
 ## Demo
-<img src="https://media.giphy.com/media/Et7S1hunlr8YkDC2wh/source.gif" width="200" />
+<img src="https://media.giphy.com/media/Et7S1hunlr8YkDC2wh/source.gif" width="480" height="209" />
+
 
