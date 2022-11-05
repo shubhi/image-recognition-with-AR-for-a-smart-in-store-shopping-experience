@@ -50,4 +50,4 @@ Available development softwares:
 
 ## Demo
 
-![alt-text](demo/product_scan_demo.gif)
+![alt-text](demo/productscandemo_3.gif)
