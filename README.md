@@ -39,11 +39,6 @@ Available development softwares:
 ![alt-text](demo/productscandemo_3.gif)
 
 
-## Market Study
-
-![alt-text](demo/productscansurvey.png)  
-
-
 ## Results and Conclusion
 
 1. Feature tracking with image recognition to register products as multiple image targets. Customers can scan products from handheld devices to obtain product-specific information.
@@ -51,3 +46,9 @@ Available development softwares:
 2. Visual and Auditory overlay such as 3D models, images, videos, text,  regarding the brand, reviews, dietary information, prices, discounts, alternatives, advertisements, etc.
 
 3. Cloud to support the maintenance of dynamic product metadata, which can be efficiently modified to the branding needs and accessed remotely.
+
+
+## Market Study
+
+![alt-text](demo/productscansurvey.png)  
+
