@@ -23,7 +23,6 @@ Available development softwares:
 2. ARCore
 3. Vuforia
 
-###                                       FINAL SOLUTION = VUFORIA SDK + UNITY ENGINE + ANDROID STUDIO
 
 ## Vuforia Studio: Open-Source web based tool to manage targets which can be created at run time and managed from the Vuforia Image Target Library repository which requires a free license.
 
@@ -33,6 +32,14 @@ Available development softwares:
   * Placement of Text, Audio, Video and 3D models on the surface of the virtual object.
 
   Advantages of target library - easy management/modification of the image targets which benefits constant modification in products.
+
+
+###                                       FINAL SOLUTION = VUFORIA SDK + UNITY ENGINE + ANDROID STUDIO
+
+
+## Demo
+
+![alt-text](demo/productscandemo_3.gif)
 
 ## Market Study
 
@@ -45,9 +52,3 @@ Available development softwares:
 2. Visual and Auditory overlay such as 3D models, images, videos, text,  regarding the brand, reviews, dietary information, prices, discounts, alternatives, advertisements, etc.
 
 3. Cloud to support the maintenance of dynamic product metadata, which can be efficiently modified to the branding needs and accessed remotely.
-
-
-
-## Demo
-
-![alt-text](demo/productscandemo_3.gif)
